@@ -60,7 +60,7 @@ $produtos = [
 ];
 
 $destaque = 'PROMOÇÃO RELÂMPAGO - ATÉ 93% OFF';
-$whatsapp = '5514988173958';
+$whatsapp = '5514999999999';
 
 // Estatísticas reais da Steam
 $stats_steam = [
@@ -1072,7 +1072,7 @@ $motivos_preco = [
                 </div>
                 <p class="mb-2">
                     <i class="fab fa-whatsapp mr-2"></i>
-                    WhatsApp: (14) 98817-3958
+                    WhatsApp: (14) 99999-9999
                 </p>
                 <p class="mb-2">
                     <i class="fab fa-pix mr-2"></i>
